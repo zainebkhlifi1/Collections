@@ -49,7 +49,7 @@ import java.util.*;
                 System.out.println(personneList.contains(new Personne(2, 24, "Loukil", "fares")));
                 // compares memory address
 
-                // cree une list de Integer et faite le tri croi et dec
+                // cree une list de Integer et faite le tri croissant et decroisant
                 ArrayList<Integer> integerList = new ArrayList<Integer>();
                 integerList.add(5);
                 integerList.add(2);
